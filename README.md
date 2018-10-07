@@ -44,7 +44,7 @@ make build
 
 Run the service
 ```
-./microsample-srv
+./bin/microsample-srv
 ```
 
 Build a docker image
